@@ -19,4 +19,3 @@ We have created an application that visualizes and allows for the analysis of ro
 ![Wygląd aplikacji](./img/app5.png)
 ![Wygląd aplikacji](./img/app3.png)
 ![Wygląd aplikacji](./img/app2.png)
-![Wygląd aplikacji](./img/app1.png)
