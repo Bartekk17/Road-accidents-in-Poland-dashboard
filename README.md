@@ -1,12 +1,19 @@
-# Wypadki drogowe w Polsce
+#### Road accidents in Poland - dashboard
 
-Autorzy: Krzysztof Krawiec, Bartosz Szymański, Franciszek Saliński
+Project done by Krzysztof Krawiec, Fanciszek Saliński and Bartosz Szymański, as a part of the course "Exploratory Data Analysis" at Warsaw University of Technology.
 
-## Opis projektu
+#### Used technology
+- pytohn
+- dash
+- pandas
+- plotly
+- numpy
+  
+#### About project
 
-Stworzyliśmy aplikację, która wizualizuje i pozwala na analizę danych dotyczących wypadków drogowych w Polsce. Składa się ona z dwóch głownych części. Jedna z nich składa się z mapy oraz wykresów, które przedstawiają liczby wypadków i ofiar w poszczególnych województwach i powiatach. Druga część porównuje Polskę z innymi krajami UE pod względem między innymi śmiertelności wypadków, inwestycji w drogi oraz spożycia alkoholu.
+We have created an application that visualizes and allows for the analysis of road accident data in Poland. It consists of two main parts. One of them includes a map and charts that depict the numbers of accidents and casualties in various voivodeships and counties. The second part compares Poland with other EU countries in terms of accident mortality rates, road investments, and alcohol consumption, among other factors.
 
-Wygląd aplikacji:
+### The final result
 
 ![Wygląd aplikacji](./img/app4.png)
 ![Wygląd aplikacji](./img/app5.png)
